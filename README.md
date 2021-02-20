@@ -1,2 +1,3 @@
 # NugetCacheProxy
-Pass through proxy to speen up NuGet
+
+Pass through proxy to speed up NuGet.
